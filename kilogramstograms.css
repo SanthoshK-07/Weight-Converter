@@ -1,7 +1,5 @@
 body{
-    background-color:#ffd480
-    ;
-    ;
+    background-color:#ffd480;
     font-weight:900;
 }
 h1{
@@ -28,7 +26,7 @@ h1{
 }
 button{
     border-radius: 8px;
-    margin-top: 10px;
+    margin-top: 25px;
 }
 input{
     border-radius: 8px;
@@ -39,7 +37,4 @@ input{
 .LIB
 {
     padding-top: 70px;
-}
-.LIB input{
-    margin-bottom: 30px ;
 }
